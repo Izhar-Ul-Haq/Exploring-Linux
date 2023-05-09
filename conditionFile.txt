@@ -1,0 +1,9 @@
+Izhar Ul Haq The Traveller
+All Time Traveller
+All Time Traveller
+================================
+Conditions in Shell Scripting
+================================
+This file is created with conditions (I mean to say &&)
+ls -l README.md && toch conditionFile.txt (True)
+================================
