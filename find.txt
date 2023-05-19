@@ -1,0 +1,7 @@
+conditionFile.txt
+izhar.txt
+izharkhan.txt
+izharulhaq.txt
+one.txt
+three.txt
+two.txt
